@@ -3,9 +3,7 @@ import FloorPlan from "./FloorPlan"
 
 function App() {
   return (
-    <div>
-      <FloorPlan />
-    </div>
+       <FloorPlan />
   )
 }
 
